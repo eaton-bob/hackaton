@@ -11,7 +11,7 @@ https://www.openstreetmap.org/query?lat=50.16019&lon=14.36961
  * Day 3 - 7 December 2016 (Wednesday)
 
 ## How to get here
-TODO
+Use bus line 340 from station Dejvická to Roztoky-Žalov
 
 ## Registration and Cost
 
