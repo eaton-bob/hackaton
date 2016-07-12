@@ -1,8 +1,9 @@
 # EEIC Zeromq hackaton
 
-## Location
-Eaton European Innovtion Center
+## Location and schedule
+Eaton European Innovation Center
 Bořivojova 2380, 252 63 Roztoky, Česká republika
+
 https://www.openstreetmap.org/query?lat=50.16019&lon=14.36961
 
  * Day 1 - 5 December 2016 (Monday)
