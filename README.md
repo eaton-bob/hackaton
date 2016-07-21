@@ -19,17 +19,19 @@ Use bus line 340 from station Dejvická to Roztoky-Žalov
 
 To register, just write an email to michalvyskocil@eaton.com with a subject HACKATON.
 
-------------------------------------------------------------------------------------------
-## COPY AND PASTE FROM http://zeromq.org/event:zeromq-meetup-brussels, needs to be updated
-## please move sections upper once refreshed
-
 ## Hackathon Format
 
 The hackathon is a unique opportunity to learn advanced ZeroMQ skills from the experts. It follows the model developed by Pieter Hintjens for many ZeroMQ workshops.
 
 Each year we take a theme and work towards that using an organic contract-driven process.
 
-The theme for 2016 is broker-to-broker federation to provide Internet-scale patterns that potentially replace email. We'll use some or all of these building blocks:
+The theme for 2016 is (to be selected)
+
+ * reliable SERVICE pattern for malamute
+ * malamute client models
+ * malamute clients + web server integration
+ * ...
+
 
     Your favorite language binding (e.g. CZMQ if you are working in C)
     Zyre
@@ -44,22 +46,8 @@ And/or implementations in various languages. We drive the hackathon with simple 
 The more you already know about ZeroMQ the better. If you are a full beginner you will have to tag along with others for a while.
 
 Bring your laptop, with ZeroMQ installed and working in your favorite language.
-Use cases
 
-    Secure interdomain messaging (chat, IoT, application data)
-    Post-email messaging
-
-## Challenges
-
-## Operational considerations
-
-    Which server do I connect to for example.com.
-    Message spooling (remote server is offline and my server can't send messages)
-    What happens when my server comes back online?
-    Message formats? (chat messages vs application messages)
-    Client server model or just server-server?
-    REST API for mobile apps
 
 ## Schedule
 
-Main event is from 9am to 6pm, participants are welcome to arrive earlier and leave at any time up to midnight. An access code will be provided. Refreshments and snacks will be provided, including beer and wine in the evenings.
+Main event is from 9am to 6pm, participants are welcome to arrive earlier and leave at any time up to midnight. An access code will be provided. Refreshments and snacks will be provided.
