@@ -21,7 +21,7 @@ To register, just write an email to michalvyskocil@eaton.com with a subject HACK
 
 ## Hackathon Format
 
-The hackathon is a unique opportunity to learn advanced ZeroMQ skills from the experts. It follows the model developed by Pieter Hintjens for many ZeroMQ workshops.
+The hackathon is a unique opportunity to learn advanced ZeroMQ skills. It follows the model developed by Pieter Hintjens for many ZeroMQ workshops.
 
 Each year we take a theme and work towards that using an organic contract-driven process.
 
