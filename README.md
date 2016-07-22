@@ -6,9 +6,9 @@ Bořivojova 2380, 252 63 Roztoky, Česká republika
 
 https://www.openstreetmap.org/query?lat=50.16019&lon=14.36961
 
- * Day 1 - 5 December 2016 (Monday)
- * Day 2 - 6 December 2016 (Tuesday)
- * Day 3 - 7 December 2016 (Wednesday)
+ * 1st day - 5 December 2016 (Monday)
+ * 2nd day - 6 December 2016 (Tuesday)
+ * 3rd day - 7 December 2016 (Wednesday)
 
 ## How to get here
 Use bus line 340 from station Dejvická to Roztoky-Žalov
