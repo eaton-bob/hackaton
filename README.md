@@ -28,7 +28,7 @@ Each year we take a theme and work towards that using an organic contract-driven
 The theme for 2016 is (to be selected)
 
  * reliable SERVICE pattern for malamute
- * malamute client models
+ * malamute client model and generator
  * malamute clients + web server integration
  * ...
 
