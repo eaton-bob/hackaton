@@ -32,6 +32,7 @@ The theme for 2016 is (to be selected)
  * malamute clients + web server integration
  * ...
 
+## Requirements for Participants
 
     Your favorite language binding (e.g. CZMQ if you are working in C)
     Zyre
@@ -40,8 +41,6 @@ The theme for 2016 is (to be selected)
     zproject
 
 And/or implementations in various languages. We drive the hackathon with simple RFCs, pull requests, and a collection of projects that talk together. This is the same process we use in the ZeroMQ community.
-
-## Requirements for Participants
 
 The more you already know about ZeroMQ the better. If you are a full beginner you will have to tag along with others for a while.
 
