@@ -5,15 +5,21 @@
     Eaton European Innovation Center
     Bořivojova 2380, 252 63 Roztoky, Česká Republika
 
-    https://www.openstreetmap.org/query?lat=50.16019&lon=14.36961
+Find us on the map: https://www.openstreetmap.org/query?lat=50.16019&lon=14.36961
 
  * 1st day - 5 December 2016 (Monday)
  * 2nd day - 6 December 2016 (Tuesday)
  * 3rd day - 7 December 2016 (Wednesday)
 
 ## How to get here
- * Public transport: Use bus line 340 or 350 from station Dejvická in Prague to bus stop Rozcesti Žalov in Roztoky. Note that this is an out-of-city route, you'd need a 40Kc ticket (valid for 2 hours as a bonus).
- * For fans of tracking: You can walk up from the Roztoky-Žalov train station - this is approximately an 80-meter rise over a kilometer-long walk, and it would take you about 15 minutes to get here from the train. Showers are available in our building ;) For the trip you would take the S4 train line leaving Prague from Masarykovo Nadrazi directed to Kralupy or Usti nad Labem, passing Nadrazi Podbaba a couple of kilometers from the Dejvicka bus stops, the line goes every hour or 30 minutes in peak times (or even more often early in the mornings).
+ * Public transport: Use bus lines 340 or 350 from station Dejvická in Prague to bus stop Rozcesti Žalov in Roztoky, then go forward a couple of blocks.
+  * Note that this is an out-of-city route, you'd need a 40Kc ticket (valid for 2 hours as a bonus).
+  * If you have accomodations in Prague 6 district and leave from the Podbaba bus stop or even further along the road from the city center, an 18Kc ticket should suffice.
+  * These buses leave approximately every 30 minutes and pass the Podbaba bus stop and train station.
+ * For fans of tracking: You can walk *up* from the Roztoky-Žalov train station - this is approximately an 80-meter rise over a kilometer-long walk, and it would take you about 15 minutes to get here from the train. Showers are available in our building ;)
+  * For the trip you would take the S4 train line leaving Prague from Masarykovo Nadrazi directed to Kralupy or Usti nad Labem, passing Nadrazi Podbaba a couple of kilometers from the Dejvicka bus stop.
+  * The trains go at least every hour during the day, or 30 minutes in peak times (or even more often early in the mornings).
+  * When leaving from minor stations, such as Podbaba, you can buy tickets from the controller staff in the train. For a major train station with a building and ticket office, such as Masarykovo Nadrazi or Roztoky central, make sure to either use the 40Kc Prague public transport ticket validated in a yellow box on the platform (or in a bus/metro/tram on an earlier leg of your trip), or buy a ticket at the station office -- the controllers take surcharge for selling tickets on-board if you leave from a station with a ticket office.
  
 ## Registration and Cost
 
@@ -33,15 +39,15 @@ The theme for 2016 is (to be selected):
 
 ## Requirements for Participants
 
-You should pre-install (preferably compile from Git heads of respective projects at https://github.com/zeromq):
+You should pre-install (preferably compile from Git heads of respective projects at https://github.com/zeromq/):
 
-    ZeroMQ itself: https://github.com/zeromq/libzmq
-    Your favorite language binding for ZeroMQ: e.g. https://github.com/zeromq/czmq if you are working in C
-    Zyre: https://github.com/zeromq/zyre
-    Malamute: https://github.com/zeromq/malamute
-    zproto: https://github.com/zeromq/zproto
-    zproject: https://github.com/zeromq/zproject
-    imatix GSL: https://github.com/imatix/gsl
+* ZeroMQ itself: https://github.com/zeromq/libzmq
+* Your favorite language binding for ZeroMQ: e.g. https://github.com/zeromq/czmq if you are working in C
+* Zyre: https://github.com/zeromq/zyre
+* Malamute: https://github.com/zeromq/malamute
+* zproto: https://github.com/zeromq/zproto
+* zproject: https://github.com/zeromq/zproject
+* imatix GSL: https://github.com/imatix/gsl
 
 ...and/or implementations in various languages.
 
