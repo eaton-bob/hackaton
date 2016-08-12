@@ -63,4 +63,4 @@ Bring your laptop, with ZeroMQ installed and working in your favorite language.
 
 ## Schedule
 
-Main event is from 9am to 6pm, participants are welcome to arrive earlier and leave at any time up to midnight. An access code will be provided. Refreshments and snacks will be provided.
+Main event is from 9am to 6pm, participants are welcome to arrive earlier. An access code will be provided. Refreshments and snacks will be provided.
