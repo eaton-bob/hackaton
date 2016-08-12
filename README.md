@@ -1,10 +1,11 @@
 # EEIC ZeroMQ workshop
 
 ## Location and schedule
-Eaton European Innovation Center
-Bořivojova 2380, 252 63 Roztoky, Česká Republika
 
-https://www.openstreetmap.org/query?lat=50.16019&lon=14.36961
+    Eaton European Innovation Center
+    Bořivojova 2380, 252 63 Roztoky, Česká Republika
+
+    https://www.openstreetmap.org/query?lat=50.16019&lon=14.36961
 
  * 1st day - 5 December 2016 (Monday)
  * 2nd day - 6 December 2016 (Tuesday)
