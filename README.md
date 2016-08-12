@@ -1,4 +1,4 @@
-# EEIC Zeromq hackaton
+# EEIC Zeromq workshop
 
 ## Location and schedule
 Eaton European Innovation Center
@@ -17,20 +17,17 @@ Use bus line 340 from station Dejvická to Roztoky-Žalov
 
 **Entry is free. Seats are limited, so first come first served.**
 
-To register, just write an email to michalvyskocil@eaton.com with a subject HACKATON.
+To register, just write an email to michalvyskocil@eaton.com with a subject WORKSHOP.
 
-## Hackathon Format
+## Workshop Format
 
-The hackathon is a unique opportunity to learn advanced ZeroMQ skills. It follows the model developed by Pieter Hintjens for many ZeroMQ workshops.
+The workshop is a unique opportunity to learn ZeroMQ skills. It follows the model developed by Pieter Hintjens for many ZeroMQ workshops.
 
 Each year we take a theme and work towards that using an organic contract-driven process.
 
 The theme for 2016 is (to be selected)
 
- * reliable SERVICE pattern for malamute
- * malamute client model and generator
- * malamute clients + web server integration
- * ...
+    Reliable SERVICE pattern for malamute
 
 ## Requirements for Participants
 
