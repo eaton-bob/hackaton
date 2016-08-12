@@ -11,12 +11,13 @@ Find us on the map: https://www.openstreetmap.org/query?lat=50.16019&lon=14.3696
  * 2nd day - 6 December 2016 (Tuesday)
  * 3rd day - 7 December 2016 (Wednesday)
 
-## How to get here
- * Public transport: Use bus lines 340 or 350 from station Dejvická in Prague to bus stop Rozcesti Žalov in Roztoky, then go forward a couple of blocks passing the gas station.
+## How to get here by Public transport
+ * You can look at Prague MHD (public transport system) connections, times and relevant ticket prices at http://spojeni.dpp.cz/
+ * By bus: Use bus lines 340 or 350 from station Dejvická in Prague to bus stop Rozcesti Žalov in Roztoky, then go forward a couple of blocks passing the gas station.
   * Note that this is an out-of-city route, you'd need a 40Kc ticket (valid for 2 hours as a bonus).
   * If you have accomodations in Prague 6 district and leave from the Podbaba bus stop or even further along the road from the city center, an 18Kc ticket should suffice.
   * These buses leave approximately every 30 minutes and pass the Podbaba bus stop and train station.
- * For fans of tracking: You can walk *up* from the Roztoky-Žalov train station - this is approximately an 80-meter rise over a kilometer-long walk, and it would take you about 15 minutes to get here from the train. Once you get up to the crossroads with the bus stop Rozcesti Žalov, turn right and then go forward a couple of blocks passing the gas station. Showers are available in our building ;)
+ * By train and foot (for fans of tracking): You can walk **up** from the Roztoky-Žalov train station - this is approximately an 80-meter rise over a kilometer-long walk, and it would take you about 15 minutes to get here from the train. Once you get up to the crossroads with the bus stop Rozcesti Žalov, turn right and then go forward a couple of blocks passing the gas station. Showers are available in our building ;)
   * For the trip you would take the S4 train line leaving Prague from Masarykovo Nadrazi directed to Kralupy or Usti nad Labem, passing Nadrazi Podbaba a couple of kilometers from the Dejvicka bus stop.
   * The trains go at least every hour during the day, or 30 minutes in peak times (or even more often early in the mornings).
   * When leaving from minor stations, such as Podbaba, you can buy tickets from the controller staff in the train. For a major train station with a building and ticket office, such as Masarykovo Nadrazi or Roztoky central, make sure to either use the 40Kc Prague public transport ticket validated in a yellow box on the platform (or in a bus/metro/tram on an earlier leg of your trip), or buy a ticket at the station office -- the controllers take surcharge for selling tickets on-board if you leave from a station with a ticket office.
